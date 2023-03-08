@@ -7,11 +7,11 @@ function App() {
     <BrowserRouter>
       <Routes>
         <Route path={"/"} element={<Layout/>}>
-          
         </Route>
       </Routes>
     </BrowserRouter>
   );
 }
+// aka nima gap
 
 export default App;
